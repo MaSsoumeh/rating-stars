@@ -1,9 +1,9 @@
-import StarRating from './StarRating';
+import StarRating from "./StarRating";
 
 function App() {
   return (
-    <div className='App'>
-      <StarRating totalStars={6} />
+    <div className="App">
+      <StarRating totalStars={5} />
     </div>
   );
 }
